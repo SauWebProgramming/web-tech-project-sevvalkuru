@@ -2,6 +2,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SineLib - Medya Kitaplığı</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -17,7 +18,13 @@
                     <option value="Dizi">Diziler</option>
                     <option value="Kitap">Kitaplar</option>
                 </select>
-                <input type="number" id="yearFilter" placeholder="Yıla göre filtrele (Örn: 2010)">
+
+                <select id="yearSort">
+                    <option value="default">Sıralama Seçin</option>
+                    <option value="newest">Yeniden Eskiye (Yıl)</option>
+                    <option value="oldest">Eskiden Yeniye (Yıl)</option>
+                </select>
+
                 <button id="showFavsBtn">Favorilerim</button>
                 <button id="showAllBtn">Tüm Liste</button>
             </div>
