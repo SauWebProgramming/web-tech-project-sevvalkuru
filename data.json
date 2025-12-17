@@ -5,8 +5,8 @@
     "year": "2010",
     "category": "Film",
     "rating": "8.8",
-    "image": "https://image.tmdb.org/t/p/w500/edv5CZvjS79vS7t9vS7t9vS7t9.jpg",
-    "desc": "Rüya hırsızlığı üzerine bir başyapıt.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "desc" : "Rüya hırsızlığı üzerine bir başyapıt.",
     "actors": "Leonardo DiCaprio, Cillian Murphy"
   },
   {
@@ -15,7 +15,7 @@
     "year": "2008",
     "category": "Dizi",
     "rating": "9.5",
-    "image": "https://image.tmdb.org/t/p/w500/ggm8ihkvnmtyf928a6f3m28u9.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "desc": "Bir kimya öğretmeninin uyuşturucu dünyasına girişi.",
     "actors": "Bryan Cranston, Aaron Paul"
   },
@@ -25,7 +25,7 @@
     "year": "1927",
     "category": "Kitap",
     "rating": "10",
-    "image": "https://m.media-amazon.com/images/I/41-qU+l1QpL.jpg",
+    "image": "https://img.iskultur.com.tr/webp/2010/02/Nutuk.png",
     "desc": "Mustafa Kemal Atatürk'ün ölümsüz eseri.",
     "writer": "Mustafa Kemal Atatürk"
   },
@@ -35,7 +35,7 @@
     "year": "2008",
     "category": "Film",
     "rating": "9.0",
-    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
     "desc": "Batman ve Joker'in efsanevi mücadelesi.",
     "actors": "Christian Bale, Heath Ledger"
   },
@@ -45,7 +45,7 @@
     "year": "2010",
     "category": "Dizi",
     "rating": "9.1",
-    "image": "https://image.tmdb.org/t/p/w500/7YBI90muuYv76f2YvS0p0iU89iP.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
     "desc": "Modern Londra'da dahi bir dedektif.",
     "actors": "Benedict Cumberbatch, Martin Freeman"
   },
@@ -75,7 +75,7 @@
     "year": "2016",
     "category": "Dizi",
     "rating": "8.7",
-    "image": "https://image.tmdb.org/t/p/w500/x2LSRm2Rz96lPkBR69A9pT3919G.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/dc/Stranger_Things_%281._sezon%29.jpg/250px-Stranger_Things_%281._sezon%29.jpg",
     "desc": "Doğaüstü olaylar ve bir grup arkadaşın macerası.",
     "actors": "Millie Bobby Brown, Finn Wolfhard"
   },
@@ -85,7 +85,7 @@
     "year": "1988",
     "category": "Kitap",
     "rating": "8.5",
-    "image": "https://m.media-amazon.com/images/I/41-6pY68mML.jpg",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11819904/wh:true/wi:800",
     "desc": "Kendi kaderini arayan Santiago'nun hikayesi.",
     "writer": "Paulo Coelho"
   },
@@ -95,7 +95,7 @@
     "year": "1972",
     "category": "Film",
     "rating": "9.2",
-    "image": "https://image.tmdb.org/t/p/w500/3bhkrj09Vv9p9p9p9p9p9p9p9p.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
     "desc": "Mafya dünyasının epik aile hikayesi.",
     "actors": "Marlon Brando, Al Pacino"
   },
@@ -105,7 +105,7 @@
     "year": "1994",
     "category": "Dizi",
     "rating": "8.9",
-    "image": "https://image.tmdb.org/t/p/w500/f496p9p9p9p9p9p9p9p9p9p9p.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
     "desc": "New York'ta yaşayan altı arkadaşın komedisi.",
     "actors": "Jennifer Aniston, Matthew Perry"
   },
@@ -115,7 +115,7 @@
     "year": "1943",
     "category": "Kitap",
     "rating": "9.8",
-    "image": "https://m.media-amazon.com/images/I/41-qS6L8mML.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/f5/Kucukprens.jpg/960px-Kucukprens.jpg",
     "desc": "Büyüklerin dünyasına çocuksu bir bakış.",
     "writer": "Antoine de Saint-Exupery"
   },
@@ -125,7 +125,7 @@
     "year": "2019",
     "category": "Film",
     "rating": "8.6",
-    "image": "https://image.tmdb.org/t/p/w500/7S9p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "desc": "Sınıf farklarının çarpıcı bir anlatımı.",
     "actors": "Song Kang-ho, Lee Sun-kyun"
   },
@@ -135,7 +135,7 @@
     "year": "2017",
     "category": "Dizi",
     "rating": "8.8",
-    "image": "https://image.tmdb.org/t/p/w500/ap8p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "desc": "Her şeyin birbirine bağlı olduğu bir gizem.",
     "actors": "Louis Hofmann, Lisa Vicari"
   },
@@ -145,7 +145,7 @@
     "year": "1862",
     "category": "Kitap",
     "rating": "9.2",
-    "image": "https://m.media-amazon.com/images/I/51H-i765fML.jpg",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11572198/wh:true/wi:800",
     "desc": "Victor Hugo'nun adalet üzerine başyapıtı.",
     "writer": "Victor Hugo"
   }
