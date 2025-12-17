@@ -5,8 +5,8 @@
     "year": "2010",
     "category": "Film",
     "rating": "8.8",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIDfb7U-tnvxNrE0g649s0GprozyvFfcO1D_o5UDs2j4LBrUtoCxyl4fir_3QURCKsIv3-n4cfCFq29eHTFIGYNVdI9Rj6v1BoeSKsMHx&s=10",
-    "desc": "Rüya hırsızlığı üzerine kurgulanmış efsanevi bir bilim kurgu.",
+    "image": "https://image.tmdb.org/t/p/w500/edv5CZvjS79vS7t9vS7t9vS7t9.jpg",
+    "desc": "Rüya hırsızlığı üzerine bir başyapıt.",
     "actors": "Leonardo DiCaprio, Cillian Murphy"
   },
   {
@@ -15,8 +15,8 @@
     "year": "2008",
     "category": "Dizi",
     "rating": "9.5",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggm8ihkvnmtyf928a6f3m28u9.jpg",
-    "desc": "Bir kimya öğretmeninin uyuşturucu baronuna dönüşme süreci.",
+    "image": "https://image.tmdb.org/t/p/w500/ggm8ihkvnmtyf928a6f3m28u9.jpg",
+    "desc": "Bir kimya öğretmeninin uyuşturucu dünyasına girişi.",
     "actors": "Bryan Cranston, Aaron Paul"
   },
   {
@@ -26,7 +26,7 @@
     "category": "Kitap",
     "rating": "10",
     "image": "https://m.media-amazon.com/images/I/41-qU+l1QpL.jpg",
-    "desc": "Cumhuriyet tarihinin en önemli belgesi ve hitabesi.",
+    "desc": "Mustafa Kemal Atatürk'ün ölümsüz eseri.",
     "writer": "Mustafa Kemal Atatürk"
   },
   {
@@ -35,118 +35,118 @@
     "year": "2008",
     "category": "Film",
     "rating": "9.0",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
-    "desc": "Batman, Joker'in yarattığı kaosa karşı şehri korumaya çalışıyor.",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
+    "desc": "Batman ve Joker'in efsanevi mücadelesi.",
     "actors": "Christian Bale, Heath Ledger"
   },
   {
     "id": 5,
-    "title": "Sefiller",
-    "year": "1862",
-    "category": "Kitap",
-    "rating": "9.2",
-    "image": "https://m.media-amazon.com/images/I/51H-i765fML.jpg",
-    "desc": "Adalet ve vicdan üzerine yazılmış dünya klasiği.",
-    "writer": "Victor Hugo"
-  },
-  {
-    "id": 6,
-    "title": "Interstellar",
-    "year": "2014",
-    "category": "Film",
-    "rating": "8.7",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "desc": "İnsanlığın hayatta kalması için bir grup astronotun uzay yolculuğu.",
-    "actors": "Matthew McConaughey, Anne Hathaway"
-  },
-  {
-    "id": 7,
     "title": "Sherlock",
     "year": "2010",
     "category": "Dizi",
     "rating": "9.1",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7YBI90muuYv76f2YvS0p0iU89iP.jpg",
-    "desc": "Ünlü dedektif Sherlock Holmes'un modern Londra maceraları.",
+    "image": "https://image.tmdb.org/t/p/w500/7YBI90muuYv76f2YvS0p0iU89iP.jpg",
+    "desc": "Modern Londra'da dahi bir dedektif.",
     "actors": "Benedict Cumberbatch, Martin Freeman"
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "1984",
     "year": "1949",
     "category": "Kitap",
     "rating": "9.5",
     "image": "https://m.media-amazon.com/images/I/91SZSW8qSsL.jpg",
-    "desc": "Bireyselliğin yok edildiği distopik bir gelecek hikayesi.",
+    "desc": "George Orwell'ın distopik dünyası.",
     "writer": "George Orwell"
   },
   {
-    "id": 9,
-    "title": "The Godfather",
-    "year": "1972",
+    "id": 7,
+    "title": "Interstellar",
+    "year": "2014",
     "category": "Film",
-    "rating": "9.2",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bhkrj09Vv9p9p9p9p9p9p9p9p.jpg",
-    "desc": "Bir İtalyan-Amerikan mafya ailesinin epik hikayesi.",
-    "actors": "Marlon Brando, Al Pacino"
+    "rating": "8.7",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "desc": "Uzayda zaman ve sevgi üzerine bir yolculuk.",
+    "actors": "Matthew McConaughey, Anne Hathaway"
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Stranger Things",
     "year": "2016",
     "category": "Dizi",
     "rating": "8.7",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2LSRm2Rz96lPkBR69A9pT3919G.jpg",
-    "desc": "Kaybolan bir çocuk ve kasabadaki doğaüstü olaylar.",
+    "image": "https://image.tmdb.org/t/p/w500/x2LSRm2Rz96lPkBR69A9pT3919G.jpg",
+    "desc": "Doğaüstü olaylar ve bir grup arkadaşın macerası.",
     "actors": "Millie Bobby Brown, Finn Wolfhard"
   },
   {
-    "id": 11,
+    "id": 9,
     "title": "Simyacı",
     "year": "1988",
     "category": "Kitap",
     "rating": "8.5",
     "image": "https://m.media-amazon.com/images/I/41-6pY68mML.jpg",
-    "desc": "Kendi kişisel menkıbesini arayan bir çobanın hikayesi.",
+    "desc": "Kendi kaderini arayan Santiago'nun hikayesi.",
     "writer": "Paulo Coelho"
   },
   {
-    "id": 12,
-    "title": "Parasite",
-    "year": "2019",
+    "id": 10,
+    "title": "The Godfather",
+    "year": "1972",
     "category": "Film",
-    "rating": "8.6",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S9p9p9p9p9p9p9p9p9p9p9p9.jpg",
-    "desc": "Farklı sınıflardan iki ailenin yollarının kesişmesi.",
-    "actors": "Song Kang-ho, Lee Sun-kyun"
+    "rating": "9.2",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj09Vv9p9p9p9p9p9p9p9p.jpg",
+    "desc": "Mafya dünyasının epik aile hikayesi.",
+    "actors": "Marlon Brando, Al Pacino"
   },
   {
-    "id": 13,
+    "id": 11,
     "title": "Friends",
     "year": "1994",
     "category": "Dizi",
     "rating": "8.9",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f496p9p9p9p9p9p9p9p9p9p9p.jpg",
-    "desc": "New York'ta yaşayan 6 arkadaşın komik ve sıcak hikayesi.",
+    "image": "https://image.tmdb.org/t/p/w500/f496p9p9p9p9p9p9p9p9p9p9p.jpg",
+    "desc": "New York'ta yaşayan altı arkadaşın komedisi.",
     "actors": "Jennifer Aniston, Matthew Perry"
   },
   {
-    "id": 14,
-    "title": "Küçük Prens",
+    "id": 12,
+    "title": "Kucuk Prens",
     "year": "1943",
     "category": "Kitap",
     "rating": "9.8",
     "image": "https://m.media-amazon.com/images/I/41-qS6L8mML.jpg",
-    "desc": "Evrenin sırlarını çocuksu bir dille anlatan zamansız eser.",
-    "writer": "Antoine de Saint-Exupéry"
+    "desc": "Büyüklerin dünyasına çocuksu bir bakış.",
+    "writer": "Antoine de Saint-Exupery"
   },
   {
-    "id": 15,
+    "id": 13,
+    "title": "Parasite",
+    "year": "2019",
+    "category": "Film",
+    "rating": "8.6",
+    "image": "https://image.tmdb.org/t/p/w500/7S9p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "desc": "Sınıf farklarının çarpıcı bir anlatımı.",
+    "actors": "Song Kang-ho, Lee Sun-kyun"
+  },
+  {
+    "id": 14,
     "title": "Dark",
     "year": "2017",
     "category": "Dizi",
     "rating": "8.8",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ap8p9p9p9p9p9p9p9p9p9p9p9.jpg",
-    "desc": "Zaman yolculuğu ve kaybolan çocuklarla örülü karmaşık bir gizem.",
+    "image": "https://image.tmdb.org/t/p/w500/ap8p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "desc": "Her şeyin birbirine bağlı olduğu bir gizem.",
     "actors": "Louis Hofmann, Lisa Vicari"
+  },
+  {
+    "id": 15,
+    "title": "Sefiller",
+    "year": "1862",
+    "category": "Kitap",
+    "rating": "9.2",
+    "image": "https://m.media-amazon.com/images/I/51H-i765fML.jpg",
+    "desc": "Victor Hugo'nun adalet üzerine başyapıtı.",
+    "writer": "Victor Hugo"
   }
 ]
