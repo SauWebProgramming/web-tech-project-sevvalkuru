@@ -34,5 +34,25 @@
     "rating": "9.0",
     "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
     "desc": "Batman'in Joker ile olan mücadelesi."
+  },
+  {
+    "id": 4,
+    "title": "Sherlock",
+    "year": "2010",
+    "category": "Dizi",
+    "rating": "9.1",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9S9S6S6v8n9T8f8N8n8v8n.jpg",
+    "desc": "Modern Londra'da geçen dahi dedektif hikayesi.",
+    "actors": "Benedict Cumberbatch, Martin Freeman"
+  },
+  {
+    "id": 5,
+    "title": "Sefiller",
+    "year": "1862",
+    "category": "Kitap",
+    "rating": "9.2",
+    "image": "https://m.media-amazon.com/images/I/51H-i765fML.jpg",
+    "desc": "Adalet ve vicdan üzerine yazılmış dünya klasiği.",
+    "writer": "Victor Hugo"
   }
 ]
