@@ -11,7 +11,7 @@ Projenin yayındaki haline buradan ulaşabilirsiniz:
 
 ---
 
-## 🛠 Teknik Mimari ve Uygulanan Zorunlu Gereksinimler
+##  Teknik Mimari ve Uygulanan Zorunlu Gereksinimler
 
 ### 1. Dinamik Veri Yönetimi (Fetch API)
 Statik içerik yerine, veriler projenin kök dizininde bulunan `data.json` dosyasından **Fetch API** ve **Async/Await** yapısı kullanılarak çekilmektedir. Bu yaklaşım, uygulamanın gerçek zamanlı bir API ile çalışmaya hazır olduğunu gösterir.
@@ -30,13 +30,13 @@ Kullanıcıların beğendiği içerikler, tarayıcının **LocalStorage** alanı
 
 ---
 
-## 🌟 Bonus ve Yaratıcı Özellikler (Puan Artırıcı Detaylar)
+##  Bonus Özellikler 
 
 ### ♿ Erişilebilirlik (A11y - Accessibility)
 * Tüm etkileşimli öğeler (butonlar, kartlar) için semantik etiketler ve `aria-label` tanımlamaları yapılmıştır.
 * Resimlerin yüklenememesi durumunda `alt` etiketleri ve `onerror` kontrolü ile yedek görseller devreye girmektedir.
 
-### 🎨 Modern UI ve Mikro Etkileşimler
+###  Modern UI ve Mikro Etkileşimler
 * **CSS Animations:** Kartların üzerine gelindiğinde (hover) `cubic-bezier` geçişleri ile derinlik hissi veren yükselme efekti eklenmiştir.
 * **Responsive Design:** CSS Grid ve Flexbox sistemleri ile uygulama; masaüstü, tablet ve mobil cihazlara tam uyumlu hale getirilmiştir.
 * **Dinamik UI:** Medyanın türüne göre (Örn: Kitap ise 'Yazar', Film ise 'Oyuncular') arayüzdeki başlıklar otomatik olarak değişmektedir.
@@ -47,7 +47,7 @@ Kullanıcıların beğendiği içerikler, tarayıcının **LocalStorage** alanı
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 ```text
 /
 ├── index.html      # Ana yapı ve SEO uyumlu HTML5 iskeleti
