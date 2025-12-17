@@ -1,18 +1,38 @@
 [
-    {
-      "id": 1,
-      "title": "Inception",
-      "year": "2010",
-      "category": "Bilim Kurgu",
-      "image": "https://image.tmdb.org/t/p/w500/edv5CZvjS79vS7t9vS7t9vS7t9.jpg",
-      "desc": "Rüya hırsızlığı üzerine bir başyapıt."
-    },
-    {
-      "id": 2,
-      "title": "The Dark Knight",
-      "year": "2008",
-      "category": "Aksiyon",
-      "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
-      "desc": "Batman, Joker'e karşı şehri koruyor."
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": "2010",
+    "category": "Film",
+    "rating": "8.8",
+    "image": "https://image.tmdb.org/t/p/w500/edv5CZvjS79vS7t9vS7t9vS7t9.jpg",
+    "desc": "Rüya hırsızlığı üzerine bir başyapıt."
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "year": "2008",
+    "category": "Dizi",
+    "rating": "9.5",
+    "image": "https://image.tmdb.org/t/p/w500/ggm8ihkvnmtyf928a6f3m28u9.jpg",
+    "desc": "Bir kimya öğretmeninin uyuşturucu dünyasına giriş hikayesi."
+  },
+  {
+    "id": 3,
+    "title": "Nutuk",
+    "year": "1927",
+    "category": "Kitap",
+    "rating": "10",
+    "image": "https://m.media-amazon.com/images/I/51-fI6D9+SL._AC_SY580_.jpg",
+    "desc": "Mustafa Kemal Atatürk'ün ölümsüz eseri."
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "category": "Film",
+    "rating": "9.0",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
+    "desc": "Batman'in Joker ile olan mücadelesi."
+  }
+]

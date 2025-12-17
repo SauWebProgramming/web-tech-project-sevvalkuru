@@ -2,27 +2,37 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medya Kitaplığım</title>
+    <title>SineLib - Medya Kitaplığı</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <nav>
             <div class="logo">SineLib</div>
-            <div class="search-area">
-                <input type="text" id="searchInput" placeholder="Film/Dizi ara...">
+            <div class="controls">
+                <input type="text" id="searchInput" placeholder="İsimle ara...">
+                <select id="categoryFilter">
+                    <option value="all">Tüm Kategoriler</option>
+                    <option value="Film">Filmler</option>
+                    <option value="Dizi">Diziler</option>
+                    <option value="Kitap">Kitaplar</option>
+                </select>
+                <input type="number" id="yearFilter" placeholder="Yıla göre filtrele (Örn: 2010)">
+                <button id="showFavsBtn">Favorilerim</button>
+                <button id="showAllBtn">Tüm Liste</button>
             </div>
-            <button id="favPageBtn">Favorilerim</button>
         </nav>
     </header>
 
-    <main id="main-content">
-        <section id="mediaGrid" class="grid-container"></section>
+    <main>
+        <div id="mediaGrid" class="grid-container"></div>
     </main>
 
     <div id="modalOverlay" class="hidden">
-        <div id="modalContent"></div>
+        <div class="modal-content">
+            <button id="closeModal">X</button>
+            <div id="modalBody"></div>
+        </div>
     </div>
 
     <script src="app.js"></script>
