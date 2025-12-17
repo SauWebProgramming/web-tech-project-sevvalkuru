@@ -5,8 +5,9 @@
     "year": "2010",
     "category": "Film",
     "rating": "8.8",
-    "image": "https://image.tmdb.org/t/p/w500/edv5CZvjS79vS7t9vS7t9vS7t9.jpg",
-    "desc": "Rüya hırsızlığı üzerine bir başyapıt."
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIDfb7U-tnvxNrE0g649s0GprozyvFfcO1D_o5UDs2j4LBrUtoCxyl4fir_3QURCKsIv3-n4cfCFq29eHTFIGYNVdI9Rj6v1BoeSKsMHx&s=10",
+    "desc": "Rüya hırsızlığı üzerine kurgulanmış efsanevi bir bilim kurgu.",
+    "actors": "Leonardo DiCaprio, Cillian Murphy"
   },
   {
     "id": 2,
@@ -14,8 +15,9 @@
     "year": "2008",
     "category": "Dizi",
     "rating": "9.5",
-    "image": "https://image.tmdb.org/t/p/w500/ggm8ihkvnmtyf928a6f3m28u9.jpg",
-    "desc": "Bir kimya öğretmeninin uyuşturucu dünyasına giriş hikayesi."
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggm8ihkvnmtyf928a6f3m28u9.jpg",
+    "desc": "Bir kimya öğretmeninin uyuşturucu baronuna dönüşme süreci.",
+    "actors": "Bryan Cranston, Aaron Paul"
   },
   {
     "id": 3,
@@ -23,8 +25,9 @@
     "year": "1927",
     "category": "Kitap",
     "rating": "10",
-    "image": "https://m.media-amazon.com/images/I/51-fI6D9+SL._AC_SY580_.jpg",
-    "desc": "Mustafa Kemal Atatürk'ün ölümsüz eseri."
+    "image": "https://m.media-amazon.com/images/I/41-qU+l1QpL.jpg",
+    "desc": "Cumhuriyet tarihinin en önemli belgesi ve hitabesi.",
+    "writer": "Mustafa Kemal Atatürk"
   },
   {
     "id": 4,
@@ -32,18 +35,9 @@
     "year": "2008",
     "category": "Film",
     "rating": "9.0",
-    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
-    "desc": "Batman'in Joker ile olan mücadelesi."
-  },
-  {
-    "id": 4,
-    "title": "Sherlock",
-    "year": "2010",
-    "category": "Dizi",
-    "rating": "9.1",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9S9S6S6v8n9T8f8N8n8v8n.jpg",
-    "desc": "Modern Londra'da geçen dahi dedektif hikayesi.",
-    "actors": "Benedict Cumberbatch, Martin Freeman"
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg",
+    "desc": "Batman, Joker'in yarattığı kaosa karşı şehri korumaya çalışıyor.",
+    "actors": "Christian Bale, Heath Ledger"
   },
   {
     "id": 5,
@@ -54,5 +48,105 @@
     "image": "https://m.media-amazon.com/images/I/51H-i765fML.jpg",
     "desc": "Adalet ve vicdan üzerine yazılmış dünya klasiği.",
     "writer": "Victor Hugo"
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "year": "2014",
+    "category": "Film",
+    "rating": "8.7",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "desc": "İnsanlığın hayatta kalması için bir grup astronotun uzay yolculuğu.",
+    "actors": "Matthew McConaughey, Anne Hathaway"
+  },
+  {
+    "id": 7,
+    "title": "Sherlock",
+    "year": "2010",
+    "category": "Dizi",
+    "rating": "9.1",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7YBI90muuYv76f2YvS0p0iU89iP.jpg",
+    "desc": "Ünlü dedektif Sherlock Holmes'un modern Londra maceraları.",
+    "actors": "Benedict Cumberbatch, Martin Freeman"
+  },
+  {
+    "id": 8,
+    "title": "1984",
+    "year": "1949",
+    "category": "Kitap",
+    "rating": "9.5",
+    "image": "https://m.media-amazon.com/images/I/91SZSW8qSsL.jpg",
+    "desc": "Bireyselliğin yok edildiği distopik bir gelecek hikayesi.",
+    "writer": "George Orwell"
+  },
+  {
+    "id": 9,
+    "title": "The Godfather",
+    "year": "1972",
+    "category": "Film",
+    "rating": "9.2",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bhkrj09Vv9p9p9p9p9p9p9p9p.jpg",
+    "desc": "Bir İtalyan-Amerikan mafya ailesinin epik hikayesi.",
+    "actors": "Marlon Brando, Al Pacino"
+  },
+  {
+    "id": 10,
+    "title": "Stranger Things",
+    "year": "2016",
+    "category": "Dizi",
+    "rating": "8.7",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2LSRm2Rz96lPkBR69A9pT3919G.jpg",
+    "desc": "Kaybolan bir çocuk ve kasabadaki doğaüstü olaylar.",
+    "actors": "Millie Bobby Brown, Finn Wolfhard"
+  },
+  {
+    "id": 11,
+    "title": "Simyacı",
+    "year": "1988",
+    "category": "Kitap",
+    "rating": "8.5",
+    "image": "https://m.media-amazon.com/images/I/41-6pY68mML.jpg",
+    "desc": "Kendi kişisel menkıbesini arayan bir çobanın hikayesi.",
+    "writer": "Paulo Coelho"
+  },
+  {
+    "id": 12,
+    "title": "Parasite",
+    "year": "2019",
+    "category": "Film",
+    "rating": "8.6",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S9p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "desc": "Farklı sınıflardan iki ailenin yollarının kesişmesi.",
+    "actors": "Song Kang-ho, Lee Sun-kyun"
+  },
+  {
+    "id": 13,
+    "title": "Friends",
+    "year": "1994",
+    "category": "Dizi",
+    "rating": "8.9",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f496p9p9p9p9p9p9p9p9p9p9p.jpg",
+    "desc": "New York'ta yaşayan 6 arkadaşın komik ve sıcak hikayesi.",
+    "actors": "Jennifer Aniston, Matthew Perry"
+  },
+  {
+    "id": 14,
+    "title": "Küçük Prens",
+    "year": "1943",
+    "category": "Kitap",
+    "rating": "9.8",
+    "image": "https://m.media-amazon.com/images/I/41-qS6L8mML.jpg",
+    "desc": "Evrenin sırlarını çocuksu bir dille anlatan zamansız eser.",
+    "writer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": 15,
+    "title": "Dark",
+    "year": "2017",
+    "category": "Dizi",
+    "rating": "8.8",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ap8p9p9p9p9p9p9p9p9p9p9p9.jpg",
+    "desc": "Zaman yolculuğu ve kaybolan çocuklarla örülü karmaşık bir gizem.",
+    "actors": "Louis Hofmann, Lisa Vicari"
   }
 ]
